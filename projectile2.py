@@ -10,3 +10,6 @@ theta = 80 * (pi / 180)
 y = (yo + (x * tan(theta))) - ((g * x**2) / (2*(vo * cos(theta)**2)))
 
 print(y)
+
+name = "Dola"
+print(name)
