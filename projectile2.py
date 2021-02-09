@@ -13,3 +13,6 @@ print(y)
 
 name = "Dola"
 print(name)
+
+name = "Chiara"
+print(name)
